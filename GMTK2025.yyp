@@ -35,7 +35,12 @@
   },
   "name":"GMTK2025",
   "resources":[
+    {"id":{"name":"obj_carretera","path":"objects/obj_carretera/obj_carretera.yy",},},
+    {"id":{"name":"obj_coche","path":"objects/obj_coche/obj_coche.yy",},},
+    {"id":{"name":"obj_version","path":"objects/obj_version/obj_version.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_carretera","path":"sprites/spr_carretera/spr_carretera.yy",},},
+    {"id":{"name":"spr_coche","path":"sprites/spr_coche/spr_coche.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

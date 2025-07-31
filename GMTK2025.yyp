@@ -41,6 +41,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_carretera","path":"sprites/spr_carretera/spr_carretera.yy",},},
     {"id":{"name":"spr_coche","path":"sprites/spr_coche/spr_coche.yy",},},
+    {"id":{"name":"spr_frame","path":"sprites/spr_frame/spr_frame.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

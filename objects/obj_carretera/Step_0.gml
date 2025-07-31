@@ -1,3 +1,3 @@
 /// @description 
 
-image_speed += 0.01;
+image_speed += velocidad_vertical;

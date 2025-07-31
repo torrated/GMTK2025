@@ -13,7 +13,10 @@
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_colisionable",
+    "path":"objects/obj_colisionable/obj_colisionable.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,7 +34,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_arbusto",
+    "path":"sprites/spr_arbusto/spr_arbusto.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

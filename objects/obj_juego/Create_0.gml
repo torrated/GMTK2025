@@ -1,5 +1,7 @@
 /// @description 
 
+#macro RATIO 60/24
+
 enum ESTADOS_JUEGO {
 	normal,
 	pausado,
@@ -11,6 +13,9 @@ estado = ESTADOS_JUEGO.normal
 distancia_recorrida = 0;
 distancia_guardada = 0; // para la pausa
 distancia_meta = 0;
+
+vueltas = 0;
+metros_por_vuelta = 100;
 
 /// @description devuelve true si el juego está pausado
 function juego_pausado()
@@ -32,7 +37,7 @@ function game_over()
 function Pausar()
 {
 	estado = ESTADOS_JUEGO.pausado;
-	distancia_guardada = obj_carretera.image_speed*60/24;
+	distancia_guardada = obj_carretera.image_speed*RATIO;
 	obj_carretera.Pausar();
 	instance_create_layer(0,0,"Textos",obj_pause);
 }

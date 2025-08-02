@@ -13,6 +13,6 @@ else
 
 distancia_vuelta = _texto - (vueltas*metros_por_vuelta);
 	
-draw_text(10,30,$"Distance lap: {distancia_vuelta}m");
+//draw_text(10,30,$"Distance lap: {distancia_vuelta}m");
 draw_text(10,50,$"Distance total: {_texto}m");
 draw_text(10,70,$"Laps: {vueltas}");

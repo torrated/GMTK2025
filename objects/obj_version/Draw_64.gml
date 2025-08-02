@@ -1,3 +1,3 @@
 /// @description 
 
-draw_text(960,750,"v0.3");
+draw_text(960,750,"v0.4");

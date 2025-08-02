@@ -17,6 +17,8 @@ distancia_vuelta = 0;
 vueltas = 0;
 metros_por_vuelta = 100;
 
+musica = audio_play_sound(snd_theme,1,true);
+
 /// @description devuelve true si el juego está pausado
 function juego_pausado()
 {

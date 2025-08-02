@@ -11,6 +11,6 @@ switch(estado)
 		break;
 	
 	case ESTADOS_JUEGO.gameover:
-		game_restart();
+		room_restart()
 		break;
 }

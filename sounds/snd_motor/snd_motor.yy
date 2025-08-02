@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_theme",
+  "%Name":"snd_motor",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":7.810612,
-  "name":"snd_theme",
+  "duration":1.0666667,
+  "name":"snd_motor",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_theme.mp3",
+  "soundFile":"snd_motor.mp3",
   "type":0,
-  "volume":0.5,
+  "volume":1.0,
 }

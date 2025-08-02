@@ -12,6 +12,6 @@ else
 }
 
 distancia_vuelta = _texto - (vueltas*metros_por_vuelta);
-	
+
 draw_text(15,50,$"Distance: {_texto}m");
 draw_text(15,70,$"Laps: {vueltas}");

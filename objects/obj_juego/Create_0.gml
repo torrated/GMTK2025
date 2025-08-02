@@ -12,7 +12,7 @@ estado = ESTADOS_JUEGO.normal
 
 distancia_recorrida = 0;
 distancia_guardada = 0; // para la pausa
-distancia_meta = 0;
+distancia_vuelta = 0;
 
 vueltas = 0;
 metros_por_vuelta = 100;

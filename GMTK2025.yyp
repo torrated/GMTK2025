@@ -39,6 +39,7 @@
     {"id":{"name":"obj_carretera","path":"objects/obj_carretera/obj_carretera.yy",},},
     {"id":{"name":"obj_coche","path":"objects/obj_coche/obj_coche.yy",},},
     {"id":{"name":"obj_colisionable","path":"objects/obj_colisionable/obj_colisionable.yy",},},
+    {"id":{"name":"obj_control_obstaculos","path":"objects/obj_control_obstaculos/obj_control_obstaculos.yy",},},
     {"id":{"name":"obj_gameover","path":"objects/obj_gameover/obj_gameover.yy",},},
     {"id":{"name":"obj_juego","path":"objects/obj_juego/obj_juego.yy",},},
     {"id":{"name":"obj_meta","path":"objects/obj_meta/obj_meta.yy",},},

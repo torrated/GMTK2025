@@ -1,20 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_rueda",
+  "%Name":"obj_lap",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_rueda",
+  "name":"obj_lap",
   "overriddenProperties":[],
   "parent":{
-    "name":"Obstaculos",
-    "path":"folders/Objects/Obstaculos.yy",
+    "name":"Textos",
+    "path":"folders/Objects/Textos.yy",
   },
-  "parentObjectId":{
-    "name":"obj_colisionable",
-    "path":"objects/obj_colisionable/obj_colisionable.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_rueda",
-    "path":"sprites/spr_rueda/spr_rueda.yy",
+    "name":"spr_lap",
+    "path":"sprites/spr_lap/spr_lap.yy",
   },
   "spriteMaskId":null,
   "visible":true,

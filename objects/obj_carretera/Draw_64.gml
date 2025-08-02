@@ -7,4 +7,4 @@ if (obj_juego.juego_pausado())
 else
 	_texto = int64(image_speed);
 
-draw_text(10,10,$"Speed:{_texto}");
+draw_text(15,30,$"Speed:{_texto}");

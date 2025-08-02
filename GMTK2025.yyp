@@ -49,6 +49,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"snd_motor","path":"sounds/snd_motor/snd_motor.yy",},},
     {"id":{"name":"snd_theme","path":"sounds/snd_theme/snd_theme.yy",},},
+    {"id":{"name":"spr_agameby","path":"sprites/spr_agameby/spr_agameby.yy",},},
     {"id":{"name":"spr_arbusto","path":"sprites/spr_arbusto/spr_arbusto.yy",},},
     {"id":{"name":"spr_carretera","path":"sprites/spr_carretera/spr_carretera.yy",},},
     {"id":{"name":"spr_coche","path":"sprites/spr_coche/spr_coche.yy",},},

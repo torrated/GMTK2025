@@ -41,7 +41,7 @@ function game_over()
 function Pausar()
 {
 	estado = ESTADOS_JUEGO.pausado;
-	distancia_guardada = distancia_recorrida//obj_carretera.image_speed*RATIO;
+	distancia_guardada = distancia_recorrida;
 	obj_carretera.Pausar();
 	instance_create_layer(0,0,"Textos",obj_pause);
 }

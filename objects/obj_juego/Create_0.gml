@@ -34,6 +34,7 @@ function game_over()
 	obj_carretera.Pausar();
 	instance_create_layer(0,0,"Textos",obj_gameover);
 	audio_stop_sound(obj_coche.motor);
+	audio_stop_sound(musica);
 	audio_play_sound(snd_crash,1,false);
 }
 

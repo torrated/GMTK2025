@@ -36,6 +36,7 @@ function game_over()
 	audio_stop_sound(obj_coche.motor);
 	audio_stop_sound(musica);
 	audio_play_sound(snd_crash,1,false);
+	obj_coche.image_speed = 0;
 }
 
 

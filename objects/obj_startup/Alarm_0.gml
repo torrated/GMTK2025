@@ -7,4 +7,4 @@ if (alarm_i < alarm_max)
 	alarm[0] = 1;
 }
 else
-	room_goto(Room1);
+	room_goto(Room_menu);

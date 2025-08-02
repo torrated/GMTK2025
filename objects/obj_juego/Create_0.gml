@@ -33,10 +33,9 @@ function game_over()
 	distancia_guardada = distancia_recorrida;
 	obj_carretera.Pausar();
 	instance_create_layer(0,0,"Textos",obj_gameover);
-	audio_stop_sound(obj_coche.motor);
 	audio_stop_sound(musica);
 	audio_play_sound(snd_crash,1,false);
-	obj_coche.image_speed = 0;
+	obj_coche.Pausar();
 }
 
 
@@ -47,6 +46,7 @@ function Pausar()
 	distancia_guardada = distancia_recorrida;
 	obj_carretera.Pausar();
 	instance_create_layer(0,0,"Textos",obj_pause);
+	obj_coche.Pausar();
 }
 
 
@@ -56,6 +56,7 @@ function Reanudar()
 	estado = ESTADOS_JUEGO.normal;
 	distancia_recorrida = distancia_guardada;
 	obj_carretera.Reanudar();
+	obj_coche.Reanudar();
 	with (obj_pause)
 	{
 		instance_destroy(self,true);

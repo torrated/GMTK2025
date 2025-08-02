@@ -6,7 +6,7 @@ distancias = [20,
 			80];
 			
 objetos = [obj_rueda, 
-		obj_rueda, 
+		obj_valla, 
 		obj_coche_cruzado, 
 		obj_rueda];
 		

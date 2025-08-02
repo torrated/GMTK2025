@@ -8,7 +8,7 @@ distancias = [20,
 objetos = [obj_rueda, 
 		obj_valla, 
 		obj_coche_cruzado, 
-		obj_rueda];
+		obj_cono];
 		
 posiciones = [652, 
 			372, 

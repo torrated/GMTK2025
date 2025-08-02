@@ -37,6 +37,7 @@
   "resources":[
     {"id":{"name":"obj_arbusto","path":"objects/obj_arbusto/obj_arbusto.yy",},},
     {"id":{"name":"obj_carretera","path":"objects/obj_carretera/obj_carretera.yy",},},
+    {"id":{"name":"obj_coche_cruzado","path":"objects/obj_coche_cruzado/obj_coche_cruzado.yy",},},
     {"id":{"name":"obj_coche","path":"objects/obj_coche/obj_coche.yy",},},
     {"id":{"name":"obj_colisionable","path":"objects/obj_colisionable/obj_colisionable.yy",},},
     {"id":{"name":"obj_control_obstaculos","path":"objects/obj_control_obstaculos/obj_control_obstaculos.yy",},},
@@ -53,6 +54,7 @@
     {"id":{"name":"snd_theme","path":"sounds/snd_theme/snd_theme.yy",},},
     {"id":{"name":"spr_arbusto","path":"sprites/spr_arbusto/spr_arbusto.yy",},},
     {"id":{"name":"spr_carretera","path":"sprites/spr_carretera/spr_carretera.yy",},},
+    {"id":{"name":"spr_coche_cruzado","path":"sprites/spr_coche_cruzado/spr_coche_cruzado.yy",},},
     {"id":{"name":"spr_coche","path":"sprites/spr_coche/spr_coche.yy",},},
     {"id":{"name":"spr_cooperativo_logo","path":"sprites/spr_cooperativo_logo/spr_cooperativo_logo.yy",},},
     {"id":{"name":"spr_frame","path":"sprites/spr_frame/spr_frame.yy",},},

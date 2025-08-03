@@ -9,8 +9,8 @@
   "name":"obj_control_obstaculos",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Obstaculos",
+    "path":"folders/Objects/Obstaculos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

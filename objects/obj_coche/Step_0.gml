@@ -3,7 +3,7 @@
 if !(obj_juego.juego_pausado())
 {
 	var _hor = keyboard_check(vk_right) - keyboard_check(vk_left);
-	var _moverse = _hor * velocidad;
+	var _moverse = _hor * velocidad * image_speed;
 	var _grosor_frame = 16;
 
 	// para que no se salga por la izquierda

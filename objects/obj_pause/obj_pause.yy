@@ -6,8 +6,8 @@
   "name":"obj_pause",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Textos",
+    "path":"folders/Objects/Textos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

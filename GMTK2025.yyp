@@ -59,6 +59,7 @@
     {"id":{"name":"spr_coche","path":"sprites/spr_coche/spr_coche.yy",},},
     {"id":{"name":"spr_cono","path":"sprites/spr_cono/spr_cono.yy",},},
     {"id":{"name":"spr_cooperativo_logo","path":"sprites/spr_cooperativo_logo/spr_cooperativo_logo.yy",},},
+    {"id":{"name":"spr_cooperativo","path":"sprites/spr_cooperativo/spr_cooperativo.yy",},},
     {"id":{"name":"spr_frame","path":"sprites/spr_frame/spr_frame.yy",},},
     {"id":{"name":"spr_gameover","path":"sprites/spr_gameover/spr_gameover.yy",},},
     {"id":{"name":"spr_instrucciones","path":"sprites/spr_instrucciones/spr_instrucciones.yy",},},
